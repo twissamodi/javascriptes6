@@ -5,3 +5,4 @@ const foot = {
         }
 };
 foot.kick();
+
